@@ -34,4 +34,4 @@ To set up these dotfiles on your own machine, follow the steps below:
 
 ### Credits
 
-These flakes were based on ![Frost-Phoenix's Flakes](https://github.com/Frost-Phoenix/nixos-config). It provided a great starting point for my own nix flakes :)
+These flakes were based on [Frost-Phoenix's Flakes](https://github.com/Frost-Phoenix/nixos-config). It provided a great starting point for my own nix flakes :)
